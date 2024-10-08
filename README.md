@@ -1,7 +1,5 @@
-# AIDI_1001_Hotel_Booking_Agent
 
-
-Project Overview: Hotel Booking Chatbot
+Project Overview: Stay_Planner Chatbot
 I developed a hotel booking chatbot using Dialogflow to assist users with checking room availability, booking reservations, canceling bookings, and providing information on amenities.
 
 Key Features:
